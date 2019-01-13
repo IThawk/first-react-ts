@@ -1,3 +1,4 @@
+// 这个是配置语法检查
 {
   "compilerOptions": {
     "baseUrl": ".",
